@@ -193,3 +193,8 @@
 2025-05-24 17:38:02,260 - DEBUG - BgxClient.py:_send_pong:83 - Sent Pong response
 2025-05-24 17:39:54,761 - DEBUG - BgxClient.py:_send_pong:83 - Sent Pong response
 2025-05-24 17:41:47,256 - DEBUG - BgxClient.py:_send_pong:83 - Sent Pong response
+2025-05-24 17:43:39,757 - DEBUG - BgxClient.py:_send_pong:83 - Sent Pong response
+2025-05-24 17:45:32,292 - DEBUG - BgxClient.py:_send_pong:83 - Sent Pong response
+2025-05-24 17:47:24,766 - DEBUG - BgxClient.py:_send_pong:83 - Sent Pong response
+2025-05-24 17:49:17,442 - DEBUG - BgxClient.py:_send_pong:83 - Sent Pong response
+2025-05-24 17:51:09,781 - DEBUG - BgxClient.py:_send_pong:83 - Sent Pong response
