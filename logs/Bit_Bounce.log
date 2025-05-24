@@ -1,0 +1,6 @@
+2025-05-24 09:40:54,389 - INFO - Utils.py:setup_logger:98 - Stdout/stderr redirected to logger 'EMA_CROSS_STRA'
+2025-05-24 09:40:54,576 - INFO - Utils.py:flush:37 - BTC-USDT
+2025-05-24 11:37:01,684 - INFO - Utils.py:setup_logger:98 - Stdout/stderr redirected to logger 'EMA_CROSS_STRA'
+2025-05-24 11:37:01,904 - INFO - Utils.py:flush:37 - BTC-USDT
+2025-05-24 12:18:11,256 - INFO - Utils.py:setup_logger:98 - Stdout/stderr redirected to logger 'EMA_CROSS_STRA'
+2025-05-24 12:18:11,435 - INFO - Utils.py:flush:37 - BTC-USDT
